@@ -1,6 +1,8 @@
-# [freshlinks.org](http://freshlinks.org)
+# [← Back to repo list](https://gitfront.io/r/64bitpolygon/QjN93Jc5xUXw/links/)
 
-## Introduction
+# About
+
+Please note this project is no longer being maintained, but you can see a screen recording of the site <a href="https://nate-de-la-cruz.dev/fresh_links/">here</a>.
 
 Fresh links is a cloud-based RSS reader built with WordPress. The user’s posts appear in a timeline and are stripped free of ads, superfluous HTML, and with their full text. The articles can be automatically deleted after some amount of time has passed (to prevent inbox build up), listed in the timeline indefinitely, or saved into a separate section.
 
